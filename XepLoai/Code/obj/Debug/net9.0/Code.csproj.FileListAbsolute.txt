@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\obj\Debug\net9.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\obj\Debug\net9.0\Code.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\obj\Debug\net9.0\Code.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\obj\Debug\net9.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\bin\Debug\net9.0\Code.exe
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\bin\Debug\net9.0\Code.deps.json
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\bin\Debug\net9.0\Code.runtimeconfig.json
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\bin\Debug\net9.0\Code.dll
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\bin\Debug\net9.0\Code.pdb
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\obj\Debug\net9.0\Code.dll
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\obj\Debug\net9.0\refint\Code.dll
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\obj\Debug\net9.0\Code.pdb
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\obj\Debug\net9.0\Code.genruntimeconfig.cache
+C:\Users\Admin\Desktop\BaiTapCodeGym\XepLoai\Code\obj\Debug\net9.0\ref\Code.dll

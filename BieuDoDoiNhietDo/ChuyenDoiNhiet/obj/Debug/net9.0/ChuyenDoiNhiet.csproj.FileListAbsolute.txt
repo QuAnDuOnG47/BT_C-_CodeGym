@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\obj\Debug\net9.0\ChuyenDoiNhiet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\obj\Debug\net9.0\ChuyenDoiNhiet.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\obj\Debug\net9.0\ChuyenDoiNhiet.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\obj\Debug\net9.0\ChuyenDoiNhiet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\bin\Debug\net9.0\ChuyenDoiNhiet.exe
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\bin\Debug\net9.0\ChuyenDoiNhiet.deps.json
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\bin\Debug\net9.0\ChuyenDoiNhiet.runtimeconfig.json
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\bin\Debug\net9.0\ChuyenDoiNhiet.dll
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\bin\Debug\net9.0\ChuyenDoiNhiet.pdb
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\obj\Debug\net9.0\ChuyenDoiNhiet.dll
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\obj\Debug\net9.0\refint\ChuyenDoiNhiet.dll
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\obj\Debug\net9.0\ChuyenDoiNhiet.pdb
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\obj\Debug\net9.0\ChuyenDoiNhiet.genruntimeconfig.cache
+C:\Users\Admin\Desktop\BaiTapCodeGym\BieuDoDoiNhietDo\ChuyenDoiNhiet\obj\Debug\net9.0\ref\ChuyenDoiNhiet.dll
